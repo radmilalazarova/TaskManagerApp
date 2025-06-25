@@ -14,7 +14,7 @@ A simple desktop application built with C# and WinForms that allows users to man
 - Newtonsoft.Json for JSON serialization
 
 ## Screenshot
-![screenshot](images/Screenshot 2025-06-25 113352.png)
+![screenshot](Images/Screenshot 2025-06-25 113352.png)
 
 ## How to Use
 1. Open the project in Visual Studio
