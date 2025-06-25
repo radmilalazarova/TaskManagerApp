@@ -25,4 +25,9 @@ A simple desktop application built with C# and WinForms that allows users to man
 
 
 ## Author
-Radmila Lazarova – [GitHub](https://github.com/radmilalazarova)
+Radmila Lazarova â€“ [GitHub](https://github.com/radmilalazarova)
+
+## About Me
+I'm a computer engineering student passionate about building desktop and web applications.  
+Connect with me on [LinkedIn](https://www.linkedin.com/in/radmila-l-a285ab310).
+
